@@ -1,3 +1,7 @@
+![screencapture-varreltantio-github-io-2022-09-30-08_24_23](https://user-images.githubusercontent.com/49724190/193170012-700d6502-a148-4a7b-9f36-e61195a3d9bc.png)
+
+# Portfolio Built with React JS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

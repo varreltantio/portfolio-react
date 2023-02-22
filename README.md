@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![screencapture-varreltantio-github-io-2022-09-30-08_24_23](https://user-images.githubusercontent.com/49724190/193170012-700d6502-a148-4a7b-9f36-e61195a3d9bc.png)
+<img width="813" alt="Screenshot_20230222_160821" src="https://user-images.githubusercontent.com/49724190/220573797-ac09fc83-85aa-48ba-a0b8-3bb55ee65559.png">
 
 ## Available Scripts
 
